@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.cardd {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 121px auto;
+}
+.card {
+  margin: 36px 0px;
+  padding: 23px 16px;
+  background-color: antiquewhite !important;
+}
+.card-body {
+  text-align: center;
+}
